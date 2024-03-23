@@ -1,0 +1,135 @@
+{
+  "project_info": {
+    "project_number": "425264795928",
+    "firebase_url": "https://anggaa-projectotp-default-rtdb.firebaseio.com",
+    "project_id": "anggaa-projectotp",
+    "storage_bucket": "anggaa-projectotp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425264795928:android:e9b012d736e4f3309b0e6d",
+        "android_client_info": {
+          "package_name": "com.anggaa.projectmfa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "425264795928-sjqu5tt65577bjeco19k7disivuaijv8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.anggaa.projectmfa",
+            "certificate_hash": "03e8556c6ab923b95fe6013296d0b369e8a447e8"
+          }
+        },
+        {
+          "client_id": "425264795928-5lo6nlro98ggnn4drh47q4vlmgm03ltt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-2BqS1jvieRu3AjZz3c0-6oK8V3rTa5Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "425264795928-5lo6nlro98ggnn4drh47q4vlmgm03ltt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "425264795928-jeb4jmf4kc8427f38u6985qo8e9a21f1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.projectFirebase"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425264795928:android:807e65b35674ffbd9b0e6d",
+        "android_client_info": {
+          "package_name": "com.anggaa.projectotp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "425264795928-c69lq7j9gliuis58a8t2ejhhq93hctog.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.anggaa.projectotp",
+            "certificate_hash": "03e8556c6ab923b95fe6013296d0b369e8a447e8"
+          }
+        },
+        {
+          "client_id": "425264795928-5lo6nlro98ggnn4drh47q4vlmgm03ltt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-2BqS1jvieRu3AjZz3c0-6oK8V3rTa5Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "425264795928-5lo6nlro98ggnn4drh47q4vlmgm03ltt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "425264795928-jeb4jmf4kc8427f38u6985qo8e9a21f1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.projectFirebase"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425264795928:android:a64a7f7d335641499b0e6d",
+        "android_client_info": {
+          "package_name": "com.example.project_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "425264795928-5lo6nlro98ggnn4drh47q4vlmgm03ltt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-2BqS1jvieRu3AjZz3c0-6oK8V3rTa5Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "425264795928-5lo6nlro98ggnn4drh47q4vlmgm03ltt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "425264795928-jeb4jmf4kc8427f38u6985qo8e9a21f1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.projectFirebase"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
